@@ -7,7 +7,7 @@ padding: 0;
 
 
 
-.cabecalho {
+.img {
     background-color: rgb(83, 83, 112);
     color: blanchedalmond;
     display: flex;
@@ -17,7 +17,7 @@ padding: 0;
 }
 
 img{
-    width: 45%; height: 30%;
+    width: 30%; height: 40%;
 
 }
 
