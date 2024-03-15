@@ -1,23 +1,23 @@
 *{
 
-margin: 0;
-padding: 0;
+margin: 1;
+padding: 10;
 
 }
 
 
 
 .img {
-    background-color: rgb(83, 83, 112);
-    color: blanchedalmond;
+    background-color: rgb(96, 96, 122);
+    color: rgb(231, 210, 178);
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: middle;
+    align-content: middle;
     padding: 24px 0;
 }
 
 img{
-    width: 30%; height: 40%;
+    width: 25%; height: 15%;
 
 }
 
