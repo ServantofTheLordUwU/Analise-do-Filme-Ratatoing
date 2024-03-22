@@ -16,9 +16,10 @@ padding: 10;
     padding: 24px 0;
 }
 
-img{
+.img{
     width: 25%; height: 15%;
 
 }
-
+header{background-color: rgba(106, 106, 173, 0.507);}
+.classcabecalho{justify-content: center;}
 
